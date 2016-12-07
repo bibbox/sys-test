@@ -1,0 +1,6 @@
+version: '2'
+services:
+
+  §§INSTANCE-test:
+    image: bibbox/not-exists
+    container_name: §§INSTANCE-test
