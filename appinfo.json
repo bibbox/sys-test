@@ -1,0 +1,9 @@
+{
+		"name": "Install Test",
+		"short_name": "Test",
+		"version": "v1",
+		"description": "Test Errors",
+		"catalogue_url": "",
+		"application_url": "",
+		"tags": ["test"]
+}
